@@ -1,3 +1,1 @@
 echo "Hello"
-Pankaj
-Sarim
